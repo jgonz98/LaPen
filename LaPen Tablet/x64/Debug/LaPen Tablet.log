@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(1): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory

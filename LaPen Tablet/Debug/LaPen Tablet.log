@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(12): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(13): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(22): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(23): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(206): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jose\source\repos\lapen tablet\lapen tablet\main.cpp(220): warning C4715: 'server': not all control paths return a value
+  LaPen Tablet.vcxproj -> C:\Users\Jose\source\repos\LaPen Tablet\Debug\LaPen Tablet.exe
